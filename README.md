@@ -52,7 +52,7 @@ added pickups.  if the player destroys all enemy ships a pickup pops outta
 the last shot ship and the player can collect it by flying into it.  the
 pickups are:
 
-###### guns (colored green):
+##### guns (colored green):
 \[M\] multi shot. shoots 3 shots at once in a 'V' like pattern, instead
 of the usual one shot.
 
