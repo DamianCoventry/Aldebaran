@@ -1,0 +1,9 @@
+The up and down arrow keys move the player
+forwards and backwards.  The left and right arrow
+keys turn the player left and right. Either control key
+shoots and either shift key toggles the shield on and
+off.
+
+The mouse may also be used to turn the player left
+and right.  The left mouse button shoots and the right
+mouse button toggles the shield on and off.

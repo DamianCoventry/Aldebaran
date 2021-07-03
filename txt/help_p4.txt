@@ -1,0 +1,11 @@
+There's three types of pickups: guns, bombs
+and bonuses.
+
+All pickups move around the level randomly
+and will eventually leave the level.  The
+time that they stay in the level will get
+shorter as the levels increase.
+
+The gun pickups are colored green, the bomb
+pickups are red and the bonus pickups are
+blue.

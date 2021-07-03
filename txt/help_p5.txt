@@ -1,0 +1,11 @@
+The multi-shot gun fires three normal shots
+simaultaneously: one straight ahead, one 30 degrees
+to the left and the final one 30 degrees to the right.
+
+The charge up gun requires you to press and hold the
+fire button.  The longer you hold it the more charge
+you build up.  Releasing the button fires a shot with
+the amount of charge you've built up.  The shot will
+destroy objects it collides with and keep going
+reducing the amount of charge with each collision
+until it reaches zero charge or exits the field of play.

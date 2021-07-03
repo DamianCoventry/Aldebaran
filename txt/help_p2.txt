@@ -1,0 +1,8 @@
+Enemy ships periodically appear and will follow
+a list of waypoints around the level.  The enemy
+ships shoot at spaceship debris and the player
+if either enter their field of view.
+
+As the levels progress the list of waypoints that
+the enemy spaceships follow will get smaller and
+they're shots will get more accurate.

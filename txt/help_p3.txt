@@ -1,0 +1,12 @@
+There's two types of asteroids: dirt and rock.
+
+The dirt asteroid is the weaker of the two and
+appears in all of the earlier levels.
+
+The rock asteroid appears in the later levels
+and takes twice as many shots to destroy as the
+dirt asteroid.
+
+As the levels progress more asteroids will be
+added to the levels and both asteroid types will
+take more shots to destroy.

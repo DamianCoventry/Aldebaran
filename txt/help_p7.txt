@@ -1,0 +1,7 @@
+The extra ship bonus increments your spaceship
+count.  Maximum five ships.  This pickup will not
+appear if you already have the maximum.
+
+The full shield bonus sets your shield strength to
+100%.  This pickup will not appear if your shield is
+already at 100%.

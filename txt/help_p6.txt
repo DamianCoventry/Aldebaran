@@ -1,0 +1,8 @@
+The scatter bomb fires thirty six shots in a circular
+pattern, useful for clearing small debris.
+
+The reduce bomb reduces all asteroids to their
+smallest piece.  This saves you having to slowly break
+up all asteroids, but does create a lot of debris.  This
+pickup will not appear if all active asteroids are
+already at their smallest level.

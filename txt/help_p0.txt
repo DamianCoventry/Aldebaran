@@ -1,0 +1,13 @@
+The idea behind the game is to use your spaceship to destroy
+all the asteroid pieces.  Once all pieces are destroyed the game
+will advance you to the next level.
+
+Periodically enemy spaceships will fly into the level and shoot
+spaceship debris and your spaceship.  If you destroy all enemy
+spaceships then a pickup will appear which you can collect by
+flying into it. Pickups will assist you in your task of destroying
+asteroid pieces.
+
+You can shoot the pickup as it moves around the level to change
+it to a different pickup.  However be aware that the pickup
+doesn't hang around for a long time.
